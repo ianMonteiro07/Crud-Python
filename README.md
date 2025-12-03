@@ -43,16 +43,16 @@ Plaintext
 
 projeto-produto/
 │
-├── 📄 main.py              # Ponto de entrada da aplicação (Instancia o Controller e a View)
-├── 📄 produto.py           # Definição da classe Produto (Model)
-├── 📄 produtoController.py # Lógica de controle e manipulação da lista (Controller)
-└── 📄 produtoView.py       # Interface gráfica Tkinter (View)
-💻 Pré-requisitos
+├──  main.py              # Ponto de entrada da aplicação (Instancia o Controller e a View)
+├── produto.py           # Definição da classe Produto (Model)
+├── produtoController.py # Lógica de controle e manipulação da lista (Controller)
+└── produtoView.py       # Interface gráfica Tkinter (View)
+Pré-requisitos
 Python 3.x instalado.
 
 A biblioteca tkinter (geralmente já vem instalada por padrão com o Python).
 
-▶️ Como Executar
+Como Executar
 Clone este repositório ou baixe os arquivos.
 
 Certifique-se de que todos os arquivos (main.py, produto.py, produtoController.py, produtoView.py) estejam na mesma pasta.
